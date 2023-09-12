@@ -95,7 +95,7 @@ public:
 
                             // Question 6
                             cout << "What does CPU stand for?" << endl;
-                            cout << "1. Central Process Unit\n2. Computer Processing Unit\n3. Central Processor Unit\n4. Central Power Unit" << endl;
+                            cout << "1. Central Process Unit\n2. Computer Processing Unit\n3. Central Processing Unit\n4. Central Power Unit" << endl;
                             int ans6;
                             cin >> ans6;
                             if (ans6 == 3) {
